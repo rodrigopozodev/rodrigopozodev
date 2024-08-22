@@ -3,7 +3,7 @@
 
 - 🔭 Soy Estudiante en **la universidad Europea de Madrid**
 
-- 👯 Estoy estudiando **Desarrollo de Aplicaciones Web**
+-   Estoy estudiando **Desarrollo de Aplicaciones Web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
