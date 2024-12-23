@@ -12,9 +12,8 @@
 </a>
 
 <a href="https://comfy-custard-75de09.netlify.app" target="blank">
-  <img align="center" alt="portafolio de Rodrigo Pozo" height="30" width="40" />
+  <img align="center" src="file:///C:/Users/rodri/Downloads/portafolio.png" alt="portafolio de Rodrigo Pozo" height="30" width="40" />
 </a>
-<a href="https://www.flaticon.es/iconos-gratis/curriculum-vitae" title="curriculum vitae iconos">Curriculum vitae iconos creados por Flat Icons - Flaticon</a>
 
 </p>
 
