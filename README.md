@@ -12,8 +12,9 @@
 </a>
 
 <a href="https://comfy-custard-75de09.netlify.app" target="blank">
-  <img align="center" src="file:///C:/Users/rodri/Downloads/portafolio.png" alt="portafolio de Rodrigo Pozo" height="30" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1484/1484073.svg" alt="portafolio de Rodrigo Pozo" height="30" width="40" />
 </a>
+
 
 </p>
 
