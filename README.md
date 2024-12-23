@@ -12,8 +12,8 @@
   <a href="https://linkedin.com/in/rodrigopozosanchez" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rodrigo Pozo Sánchez" height="30" width="40" />
   </a>
-  <a href="https://comfy-custard-75de09.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio-alt.svg" alt="Portafolio Rodrigo Pozo" height="30" width="40" />
+    <a href="https://comfy-custard-75de09.netlify.app" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1077/1077042.png" alt="Portafolio Rodrigo Pozo" height="30" width="40" />
   </a>
 </p>
 
