@@ -9,10 +9,10 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rodrigopozosanchez" target="blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/rodrigopozosanchez" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rodrigo Pozo Sánchez" height="50" width="50" />
   </a>
-  <a href="https://comfy-custard-75de09.netlify.app" target="blank" style="text-decoration: none;">
+  <a href="https://comfy-custard-75de09.netlify.app" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4jM_6hCsjRMyEhiuSETKHwGqk265I3GzDrPAH37VaB_fbeteV3qXpN8TEAVukXS-dcIKSHG-dJE_hyphenhyphenAjXsEHb_oHh7QF5OdfoDiI-6mPHECn30VBVVeblqCS9cp_5yqtK5150iBxN614NcvGPkU-raUqU2qE734-rcRZ-HtFIkiXHN7TJH-rakeESPr-9/s320/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" alt="Portafolio Rodrigo Pozo" height="50" width="50" />
   </a>
 </p>
@@ -37,6 +37,13 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind CSS" width="50" height="50" />
+  </a>
+</p>
+
+<h3 align="left">Backend:</h3>
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
   </a>
 </p>
 
