@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Rodrigo Pozo Sánchez</h1>
 <h3 align="center">Desarrollador Fullstack</h3>
 
-- 🔭 He finalizado mis estudios en **la Universidad Europea de Madrid**
+- 🎓 He finalizado mis estudios en **la Universidad Europea de Madrid**
 
-- 🎓 He estudiado **Desarrollo de Aplicaciones Web**
+- 📘 He estudiado **Desarrollo de Aplicaciones Web**
 
 - 💼 Actualmente estoy en busca de empleo como **Desarrollador Fullstack**
 
@@ -13,7 +13,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rodrigo Pozo Sánchez" height="30" width="40" />
   </a>
   <a href="https://comfy-custard-75de09.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Portafolio Rodrigo Pozo" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portafolio Rodrigo Pozo" height="30" width="40" />
   </a>
 </p>
 
@@ -28,8 +28,8 @@
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
   </a>
 </p>
 
@@ -37,9 +37,6 @@
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   </a>
 </p>
 
