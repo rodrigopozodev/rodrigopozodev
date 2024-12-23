@@ -7,7 +7,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigopozosanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo pozo sánchez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rodrigopozosanchez" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo pozo sánchez" height="30" width="40" />
+</a>
+
+<a href="https://comfy-custard-75de09.netlify.app" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Netlify_logo.svg" alt="portafolio de Rodrigo Pozo" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
