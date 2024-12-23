@@ -13,7 +13,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo pozo sánchez" height="30" width="40" />
   </a>
   <a href="https://comfy-custard-75de09.netlify.app" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/internet/internet-icon.svg" alt="portafolio de Rodrigo Pozo" height="30" width="40" />
+    <img align="center" 💼 alt="portafolio de Rodrigo Pozo" height="30" width="40" />
   </a>
 </p>
 
