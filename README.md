@@ -1,24 +1,45 @@
-<h1 align="center">Hola 👋, Soy Rodrigo Pozo Sánchez</h1>
-<h3 align="center">Desarrollador Fullstack</h3>
+<h1 align="center">🚀 Hola, soy <strong>Rodrigo Pozo Sánchez</strong></h1>
+<h3 align="center">Desarrollador Fullstack | Apasionado por la tecnología y el aprendizaje constante</h3>
 
-- 🎓 Graduado en **la Universidad Europea de Madrid**
-- 📘 Titulado en **Desarrollo de Aplicaciones Web**
-- 💼 En búsqueda activa de empleo como **Desarrollador Fullstack**
-- ⚡ Actualmente centrado en **Next.js**
+---
 
-<h3 align="left">Conecta conmigo:</h3>
+### 👨‍🎓 Sobre mí
+- 🎓 Graduado en **Desarrollo de Aplicaciones Web** por la Universidad Europea de Madrid  
+- 💼 En búsqueda activa de oportunidades como **Desarrollador Fullstack**  
+- ⚡ Actualmente profundizando en **Next.js** y desarrollo moderno con JavaScript/TypeScript  
+
+---
+
+### 🔗 Conecta conmigo
 <p align="left">
   <a href="https://linkedin.com/in/rodrigopozosanchez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rodrigo Pozo Sánchez" height="50" width="50" />
-  </a>
-  <a href="https://porfolio-rodrigo.netlify.app" target="_blank">
-    <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4jM_6hCsjRMyEhiuSETKHwGqk265I3GzDrPAH37VaB_fbeteV3qXpN8TEAVukXS-dcIKSHG-dJE_hyphenhyphenAjXsEHb_oHh7QF5OdfoDiI-6mPHECn30VBVVeblqCS9cp_5yqtK5150iBxN614NcvGPkU-raUqU2qE734-rcRZ-HtFIkiXHN7TJH-rakeESPr-9/s320/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" alt="Portafolio Rodrigo Pozo" height="50" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
 </p>
 
-<h3 align="left">Tecnología Principal:</h3>
+---
+
+### 🧰 Tecnología destacada
 <p align="left">
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js Logo"/>
   </a>
+</p>
+
+---
+
+### 📊 Un vistazo a mi actividad
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoPozoSanchez&theme=dark&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPozoSanchez&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
+
+---
+
+### ✨ Gracias por visitar mi perfil
+<p align="center">
+  <em>“El código es poesía, y cada proyecto es una oportunidad para mejorar.”</em>
 </p>
